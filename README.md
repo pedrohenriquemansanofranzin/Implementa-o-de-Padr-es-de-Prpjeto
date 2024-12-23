@@ -1,0 +1,1 @@
+# Implementa-o-de-Padr-es-de-Prpjeto
